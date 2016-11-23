@@ -1,0 +1,18 @@
+.column {
+    width: 600px;
+    float: left;
+    text-align: center;
+}
+.coffee {
+    margin-left: 25%;
+    background-color: azure;
+}
+.answer1 {
+    border: 4px solid red;
+    padding: 15px;
+    margin: 25px;
+    float: left;
+    text-align: center;
+}
+
+}

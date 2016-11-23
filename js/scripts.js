@@ -10,3 +10,7 @@ jQuery(document).ready(function () {
         alert("This is an image");
     });
 });
+
+var sentence = prompt("Enter a sentence please");
+var output = document.write(sentence);
+var first = output.charAt(0);
